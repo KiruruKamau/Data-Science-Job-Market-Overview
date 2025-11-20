@@ -5,6 +5,9 @@ Data Science Job Market Overview
 The Data Science Job Market Overview project is a comprehensive analytical repository designed to explore, track, and visualize the current landscape of Data Science employment.
 
 Navigating the job market requires concrete data on compensation, required skills, and geographic hotspots. This project serves as a centralized hub for this data, offering a foundation for understanding market trends, differentiating between roles (e.g., Data Scientist vs. Data Analyst vs. Machine Learning Engineer), and identifying salary benchmarks across different regions and seniority levels.
+[Download Excel Dataset](https://1drv.ms/x/c/0D7791385F2F33D6/IQCamcdUcy8iQLdRMDM1W1JPASadx_btuBbmCxUB8BUBvGs?e=5IZkBq)
+
+
 
 📊 Key Features & Insights
 
@@ -40,16 +43,6 @@ Data-Science-Job-Market-Overview/
 ├── README.md                               # Project documentation
 └── Data Science Job Market Overview.xlsx   # Primary Dataset (Excel format)
 
-
-💾 Data Source
-
-The analysis is based on a dataset maintained and hosted via OneDrive.
-
-Primary Data Source: Access the OneDrive Dataset Here
-
-Local Copy: A snapshot of this data is available in the repository as Data Science Job Market Overview.xlsx.
-
-Note: For the most up-to-date entries, please refer to the primary OneDrive link.
 
 🚀 Setup & Usage
 
